@@ -6,7 +6,7 @@ Bash pipeline with stratified sampling across 5 racial groups
 
 EDA:
 
-Choropleth maps (raw and normalized) in GeoPandas and Folium
+Choropleth maps (raw and normalized) in GeoPandas.
 Pairplots, boxplots, violin plots, hexbin joint plots
 Chi-squared testing with Bonferroni correction
 Adverse impact ratio analysis against legal thresholds
